@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/MXZPDDh.png)
+![banner](https://i.imgur.com/fex6YLS.png)
 
 <h1 align="center">Hi 👋, I'm Thanh!</h1>
 <h3 align="center">A passionate cybersecurity/cloud security professional</h3>
