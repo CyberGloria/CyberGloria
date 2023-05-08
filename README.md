@@ -3,12 +3,12 @@
 ![banner](https://i.imgur.com/fex6YLS.png)
 
 <h1 align="center">I'm Thanh!</h1>
-<h3 align="center">I'm cybersecurity/cloud security professional who enjoy learning new topics. This is the space where I get to showcase all the projects I have worked on and currently working on. Welcome and enjoy your visit!</h3>
+<h3 align="center">I'm a cybersecurity/cloud security professional who enjoy learning new topics. This is the space where I get to showcase all the projects I have worked on and currently working on. Welcome and enjoy your visit!</h3>
 
   
 Cybesecurity Projects: 
 
-[https://github.com/CyberGloria](https://github.com/CyberGloria)
+Azure SOC with Honeynet (https://github.com/CyberGloria/Azure-SOC-with-Honeynet)
 
  
  IT Projects:
