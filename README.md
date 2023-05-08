@@ -1,13 +1,16 @@
+<h1 align="center">Hello, Friends!
+  
 ![banner](https://i.imgur.com/fex6YLS.png)
 
-<h1 align="center">Hi 👋, I'm Thanh!</h1>
-<h3 align="center">A passionate cybersecurity/cloud security professional</h3>
+<h1 align="center">I'm Thanh!</h1>
+<h3 align="center">A passionate cybersecurity/cloud security professional.  Welcome to my profolio where I showcase all projects I have done.</h3>
 
-- 🔭 I’m currently working on **Live cloud SOC and Honeynet**
+Cybesecurity Projects: 
 
-- 👨‍💻 All of my projects are available at [https://github.com/CyberGloria](https://github.com/CyberGloria)
+[https://github.com/CyberGloria](https://github.com/CyberGloria)
 
-- 📫 How to reach me **aloha.thanhha@gmail.com**
+ 
+ IT Projects:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
