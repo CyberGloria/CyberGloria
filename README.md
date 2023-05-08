@@ -3,8 +3,9 @@
 ![banner](https://i.imgur.com/fex6YLS.png)
 
 <h1 align="center">I'm Thanh!</h1>
-<h3 align="center">A passionate cybersecurity/cloud security professional.  Welcome to my profolio where I showcase all projects I have done.</h3>
+<h3 align="center">I'm cybersecurity/cloud security professional who enjoy learning new topics. This is the space where I get to showcase all the projects I have worked on and currently working on. Welcome and enjoy your visit!</h3>
 
+  
 Cybesecurity Projects: 
 
 [https://github.com/CyberGloria](https://github.com/CyberGloria)
