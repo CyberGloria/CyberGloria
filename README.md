@@ -8,7 +8,7 @@
   
 Cybesecurity Projects: 
 
-Azure SOC with Honeynet (https://github.com/CyberGloria/Azure-SOC-with-Honeynet)
+[Azure SOC with Honeynet](https://github.com/CyberGloria/Azure-SOC-with-Honeynet)
 
  
  IT Projects:
