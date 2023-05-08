@@ -1,9 +1,7 @@
-<h1 align="center">Hello, Friends!
-  
-![banner](https://i.imgur.com/fex6YLS.png)
+ ![banner](https://i.imgur.com/fex6YLS.png)
 
-<h1 align="center">I'm Thanh!</h1>
-<h3 align="center">I'm a cybersecurity/cloud security professional who enjoy learning new topics. This is the space where I get to showcase all the projects I have worked on and currently working on. Welcome and enjoy your visit!</h3>
+<h1 align="center">Hello, Friends! I'm Thanh!</h1>
+<h3 align="center">I'm a cybersecurity/cloud security professional who is passionate about protecting individuals' data. This is the space where I get to showcase all the projects I have worked on and currently working on. Welcome and enjoy your visit!</h3>
 
   
 Cybesecurity Projects: 
